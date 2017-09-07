@@ -4,4 +4,14 @@
     <string name="radio_button_first">Primero</string>
     <string name="radio_button_second">Segundo</string>
     <string name="radio_button_third">Tercero</string>
+
+    <string-array name="animals_array">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Tiger</item>
+        <item>Lion</item>
+        <item>Spider</item>
+        <item>Python</item>
+        <item>Aligator</item>
+    </string-array>
 </resources>
