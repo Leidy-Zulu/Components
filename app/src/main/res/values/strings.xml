@@ -4,6 +4,7 @@
     <string name="radio_button_first">Primero</string>
     <string name="radio_button_second">Segundo</string>
     <string name="radio_button_third">Tercero</string>
+    <string name="dismiss">Dismiss</string>
 
     <string-array name="animals_array">
         <item>Dog</item>
